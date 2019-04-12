@@ -20,3 +20,6 @@ int main(){
 	return 0;
 }
 
+sub1(){
+printf("hello");
+}
